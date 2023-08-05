@@ -2,7 +2,7 @@ import React from 'react'
 
 const Menu = () => {
   return (
-    <div className='about'>
+    <div className='about' id='menu'>
        <div className="container">
           <div className="row">            
             <div className="col-6">
